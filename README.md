@@ -9,17 +9,8 @@
 - ⚡ Fun fact: I like SCUBA diving
 
 ## Languages, tools and platform I use:
-<img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-<img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-<img width="12%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">
-<img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
-<img width="12%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg">
-<img width="12%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg">
-<img width="12%" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg">
-<img width="12%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
-<img width="12%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
-<img width="12%" src="logos/Oracle_Cloud_Infrastructure.svg">
-<img width="12%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
-<img width="12%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">
-<img width="12%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">
-<img width="12%" src="logos/kodekloud.svg">
+<img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
+<br/>
+<img width="12%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
+<br/>
+<img width="12%" src="logos/Oracle_Cloud_Infrastructure.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">  <img width="12%" src="logos/kodekloud.svg">
