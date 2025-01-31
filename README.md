@@ -3,10 +3,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=srikanth.hustle@gmail.com) [![Github](https://img.shields.io/badge/Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@srikanth.hustle)
 
 ## About me:
- 👨🏻‍💻 Worked as a Cloud Engineer, currently exploring Kubernetes
- 🌱 Actively learning DevOps tools
- 👬🏻 I’m looking to collaborate on opensource projects
- ⚡ Fun fact: I like SCUBA diving
+ 👨🏻‍💻 Worked as a Cloud Engineer, currently exploring Kubernetes<br/>
+ 🌱 Actively learning DevOps tools<br/>
+ 👬🏻 I’m looking to collaborate on opensource projects<br/>
+ ⚡ Fun fact: I like SCUBA diving<br/>
 
 ## Languages, tools and platforms I use:
 <img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">  <img width="6%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
