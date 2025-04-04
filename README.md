@@ -9,7 +9,7 @@
  ⚡ Fun fact: I like SCUBA diving<br/>
 
 ## Languages, tools and platforms I use:
-<img width="6%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">  <img width="6%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
+<img width="6%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">  <img width="6%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">  <img width="12%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg">  <img width="12%" src="logos/gnu_bash-official.svg">
 <br/>
 <img width="6%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">  <img width="6%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg">  <img width="7%" src="logos/argocd.svg">   <img width="8%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg">    <img width="6%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">   <img width="6%" src="logos/terraform.svg">  <img width="6%" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg">
 <br/>
