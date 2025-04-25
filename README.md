@@ -4,7 +4,7 @@
 
 ## About me:
  👨🏻‍💻 Worked as a Cloud Engineer, currently exploring Kubernetes<br/>
- 🌱 Actively learning DevOps tools<br/>
+ 🌱 Actively learning DevOps & Cloud<br/>
  👬🏻 I’m looking to collaborate on opensource projects<br/>
  ⚡ Fun fact: I like SCUBA diving<br/>
 
